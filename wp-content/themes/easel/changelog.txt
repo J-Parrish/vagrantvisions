@@ -1,0 +1,196 @@
+﻿3.0.8
+Changed header.php title code to use a filter
+modified a ton of CSS to clean it up
+tested comments.php extensively and made some minor code changes
+added pagenav jumper in the pagination
+removed custom post type from the titles in the archive pages
+added additional .menu-wrapper for the menubar
+checks for post types were removed in the displaypost.php - it's now up to the user to remove them via CSS or code
+
+3.0.7
+Fixed comment display booleans
+fixed commpress
+fixed custom-header's #header {}, removed the version check for pre 3.4 in both custom-header and custom-background
+
+3.0.6
+Bug fix for execution of init/after_theme_setup
+
+3.0.5
+Huge cleanup of the comments.php comment-functions.php files.
+- comments & pings & trackbacks now stay visible if comments are disabled and comments/pings exist
+- enqueu'ing of the comment javascript now moved to init as appropriate instead of in header.php
+Menu location in Footer added.  It's centered and cannot use dropdowns.
+Deprecating child-functions.php and child-widgets.php for favor of just straight functions.php in child themes.
+Removed default background via coded, keeping with style.css usage.
+revamped the execution orders and removed old code from the functions.php
+
+3.0.4
+Added option to display excerpt or content in archive & search
+Fix for pre_get_query for RSS feeds going the wrong desc/asc direction
+Featured images for post's now properly display in archive & search
+Edit button now displays properly in search & archive
+Added pushpin graphic for "sticky" posts, that help denote they are sticky posts
+
+
+3.0.3
+Fix for featured thumbnails on post->post_type == post and nulls it out for any other post type.
+Fixed version comparisons for WP 3.4 for custom-header and custom-background
+
+3.0.2
+Added overflow:hidden to .entry for the post area.
+Fixed a breadcrumb mistake for 404 pages.
+Fixed the logic for showing the appearance -> header for new code for 3.4 and old code methodology.
+
+
+Changelog
+3.0
+Added clear div to the widgets for better control of CSS
+New default "look"
+Added BBPress support
+Tons of code cleanup to remove custom post_type problems
+Changed the base image for the repo
+Removed "Schemes" can be done as child themes now.  
+Removed some Post Type addons that are better served in a plugin 
+Added some background opera support to the style.css
+changed the <title> code to the wordpress specific wp_title();
+CSS
+Menubar CSS changes adding an extra padding 
+Made some changes to the heights in the showcase slider
+text-align: right the more link info
+changed the comment box width to 90% to adjust appropriately
+changed the posted in box to only display the categories that it actually is posted in.
+
+
+2.0.7
+Optimized the archive and search to not do extra loops, which saves memory.
+Added option for archive display order in the easel options
+possible fix for a catchall error in breadcrumbs
+
+2.0.6
+Added proper navigation for seperate chapters/storylines for comics, and options to display on home page
+made featured images in the rss feed be 'thumbnails' instead of full images
+modified the header browser line for <title> only show the - description if there *is* a description
+added google translate widget
+internalization fix for the wp-pagenavi code, removal of adding it as an db save
+menunav moved below execution of the wp_nav_menu now so that if it does scroll over the menunav displays below and not the menu
+added enable social icons in menubar as an option now with input boxes instead of end users adding to child theme
+new feature, breadcrumbs
+fix for backlinks-template.php
+featured image now set to 'large' 
+new google translator widget
+translation files, default.mo/.po are updated so theme can be translated
+
+2.0.5
+Fixing CSS
+adding checks if the sidebar is active before executing so that if it's not active the html isnt displayed
+
+2.0.4
+moved the site description to *under* the h1 in the header
+added slider to the comic showcase - the showcase is meant to be example of addons someone can make
+fixed loading of what loads when in the functions.php - cause it was fatal erroring out on duplicate functions
+added header-info class to wrap around the header, erm.. information
+added all custom post type formats to be found on author pages
+
+2.0
+Fixed the archive page to know the difference between a permalink category and non-permalink cat=
+fixed site_url to home_url in the header.php thanks @mike on the forums
+added layouts so you can switch between a few different layouts, 3col and 2col
+control panel widget change to use wp_login_form()
+bug fix from @fred on the forums, the $height wasnt passing properly for the custom header
+added schemes, default, ocean and desert
+fixed commpress casts to only set to casts on category output
+adjusted widths of menu items to not take up as much room as it each menu item was
+removed the content stripping of <p> and </p>, leaving them in the [members] code whether they validate or not
+added posted at time in posts, disables by option for the remove date also can be disabled via css
+removed the text-transform to capitalize from the page-title/post-title
+added the scheme 'greymatter'
+fixed it so that gravatars are able to be seen (author gravatars) in IE
+
+1.1.7
+Removed the pre_get_posts completely, now the blog loop has its own post type section which handles what displays there and the rss feed has a pre_get_posts for that in functions/syndication.php
+fixed the members only code to properly update for wordpress 3.1+
+added twitter, facebook and MSN to the the profile pages for everyone
+added option to make the archive pages display as text links instead of full posts
+on 404 pages moved the title out of the post area to keep consistant with site design elements
+fixed the displaying of the navigation on list pages 
+fixed the easel_display_content function with @gisse's help from the forums
+also with Gisse's help we squashed a bug with the post type thinking the home page was is_archive
+fixed the author pages to display the proper information
+
+
+1.1.6
+removed that changelog.php template that shouldnt have been there
+CSS Cleanups
+moved back to red links
+added custom image header ability (in testing, locks up sometimes?)If it looks like its locking up, its because its a bug with wordpress
+where /wp-admin/themes.php?page=custom-header&step=1  the URL line is missing the &step=1
+fixed some text-domains which were not easel
+fixed links to frumph.net/easel for the theme_uri in footer and style.css
+
+1.1.5
+added class .sidebar-no-widgets to handle the sidebar no widgets boxes instead of being static
+changed .pagetitle to .page-title to be uniformative with the rest of the site
+removed the "count" on how many entries are found during search and archive, added extra unnecessary load
+the feed wasnt able to seperate post_types until now ;/ done
+added support for custom support type archive loop
+adjusted the colorations, added a:link and a:visited to the main style.css
+added the remove_filter on the sidebars as well as the menubar so they don't get parsed with the wrong info in their loops.
+moved the Easel options to right above appearance so it doesnt conflict with buddypress's positioning
+removed the box-border and shadow on the wp-caption, fixed the alignment so it doesnt get overriden
+moved the debug option for page load to the debug page itself
+added the change to the footer-text to allow proper copyright information
+CommPress merged into Easel now as an addon, new custom post tpe for Easel
+
+
+1.1.4
+removed the tabindex="4" from the comments.php
+added comic-id-# (# = the_ID()) as part of the #comic-wrap as a class
+
+1.1.3
+Adding addon control to Easel
+New general option, disable blog on home page and display comments on home page.  
+To display comments on the home page, the home page post count must ALSO be set to 1.
+Adding new blog template so that when you disable the blog on the home page there's a template available
+that you can associate to a page.
+Changing the way the addons load, they only load if they are enabled, that way optimizing their usage.
+added comicpress light addon for easel, including the members only, playing now and showcase addons to the repository
+Added new action location 'easel-menubar-mini-navigation' for mini navigation for comicpress light for easel
+Addons now have their own tab in the easel -> options area.
+
+1.1.2
+Moved the wp_list_pages() out of the content area and into the display_post area so that it can properly be under the clear float for the content area
+added css element .post-extras and made it clear:both; on it so that it resets the clearing at that point as well.
+changed bloginfo('wpurl') to echo site_url() 
+changed bloginfo('template_directory') to echo get_template_directory_uri()
+
+1.1.1
+Added page's to the searchs in the pre_get_posts 
+blocked off the 'pages' from having the 'posted in' message in the post (displaypost.php)
+blocked off the post calendar from displaying in archive/searchs for pages
+added blank CSS that the wordpress theme checker requires 
+
+1.1.0
+Added a generic page template - template.php
+
+1.0.9
+Added another catch for get_current_site() which doesn't exist unless it's multisite
+
+1.0.8
+Added a saftey catch for wordpress bug with site_name not being part of the current_site object
+
+1.0.7
+Modified the behavior of the footer a little so it clears floats.
+Added automated copyright info & example text on changing the name via text
+Added for multisite a hosted on <networkname>
+Added a new body class page-<pageslugname> which will better suit some peoples custom css for individual pages
+Removed sidebar-basic and going for straight .sidebar in all the sidebars, removed associated option
+
+1.0.3 - 1.0.6 Various code adjustments and test code that culminated in 1.0.7
+
+1.0.2
+Some changes to which filters handle post_type or not.
+
+1.0.1 
+Changed Theme URI and Author URI to respective places as appropriate.
+
+1.0 - Release

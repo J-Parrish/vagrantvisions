@@ -1,0 +1,1884 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: easel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-03 07:40-0800\n"
+"PO-Revision-Date: 2012-07-03 07:41-0800\n"
+"Last-Translator: Philip M. Hofer (Frumph) <philip@frumph.net>\n"
+"Language-Team: Frumph Agencies <philip@frumph.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\\\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:8
+msgid "Click here to return to the home page"
+msgstr ""
+
+#: 404.php:8
+msgid "or try a search:"
+msgstr ""
+
+#: archive-year.php:38
+#: archive.php:54
+#: search.php:18
+msgid "Permanent Link:"
+msgstr ""
+
+#: archive-year.php:43
+msgid "Edit this page."
+msgstr ""
+
+#: archive.php:19
+#: archive.php:23
+#: archive.php:25
+#: archive.php:27
+#: archive.php:34
+#: archive.php:36
+#: archive.php:39
+msgid "Archive for "
+msgstr ""
+
+#: archive.php:21
+msgid "Posts Tagged "
+msgstr ""
+
+#: archive.php:29
+msgid "Author Archive "
+msgstr ""
+
+#: archive.php:31
+msgid "Archives"
+msgstr ""
+
+#: archive.php:41
+msgid "Archive is unable to be found."
+msgstr ""
+
+#: author.php:10
+msgid "No such author."
+msgstr ""
+
+#: author.php:31
+msgid "Registered on"
+msgstr ""
+
+#: author.php:33
+msgid "Website:"
+msgstr ""
+
+#: author.php:34
+msgid "AIM:"
+msgstr ""
+
+#: author.php:35
+msgid "Jabber/Google Talk:"
+msgstr ""
+
+#: author.php:36
+msgid "Yahoo IM:"
+msgstr ""
+
+#: author.php:37
+msgid "Twitter:"
+msgstr ""
+
+#: author.php:38
+msgid "Facebook:"
+msgstr ""
+
+#: author.php:39
+msgid "MSN:"
+msgstr ""
+
+#: author.php:51
+msgid "Posts by"
+msgstr ""
+
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:9
+msgid "Comments are closed to non-members."
+msgstr ""
+
+#: comments.php:21
+msgid "Comments RSS"
+msgstr ""
+
+#: comments.php:22
+msgid "Discussion &not;"
+msgstr ""
+
+#: comments.php:22
+msgid "Discussion (%) &not;"
+msgstr ""
+
+#: comments.php:51
+msgid "Reply &not;"
+msgstr ""
+
+#: comments.php:72
+msgid "Comment Pages"
+msgstr ""
+
+#: comments.php:80
+msgid "Next Comments &uarr;"
+msgstr ""
+
+#: comments.php:81
+msgid "&darr; Previous Comments"
+msgstr ""
+
+#: comments.php:92
+msgid "NAME &mdash;"
+msgstr ""
+
+#: comments.php:92
+msgid "Get a Gravatar"
+msgstr ""
+
+#: comments.php:94
+msgid "EMAIL"
+msgstr ""
+
+#: comments.php:96
+msgid "Website URL"
+msgstr ""
+
+#: comments.php:101
+msgid "NOTE - You can use these "
+msgstr ""
+
+#: comments.php:102
+msgid "Comment &not;"
+msgstr ""
+
+#: comments.php:103
+#, php-format
+msgid "Reply to %s &not;"
+msgstr ""
+
+#: comments.php:104
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:105
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:111
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:81
+msgid "Primary"
+msgstr ""
+
+#: functions.php:82
+#: functions.php:146
+msgid "Footer"
+msgstr ""
+
+#: functions.php:139
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:140
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:141
+msgid "Above Header"
+msgstr ""
+
+#: functions.php:142
+msgid "Header"
+msgstr ""
+
+#: functions.php:143
+msgid "Menubar"
+msgstr ""
+
+#: functions.php:144
+msgid "Over Blog"
+msgstr ""
+
+#: functions.php:145
+msgid "Under Blog"
+msgstr ""
+
+#: functions.php:209
+msgid "There is members only content here."
+msgstr ""
+
+#: functions.php:265
+msgid " [&hellip;]"
+msgstr ""
+
+#: functions.php:265
+msgid "&darr; Read the rest of this entry..."
+msgstr ""
+
+#: functions.php:326
+msgid "Follow on Twitter"
+msgstr ""
+
+#: functions.php:326
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:327
+msgid "Friend on Facebook"
+msgstr ""
+
+#: functions.php:391
+msgid "&raquo"
+msgstr ""
+
+#: functions.php:401
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+#: functions.php:405
+#, php-format
+msgid "Page: %s"
+msgstr ""
+
+#: image.php:22
+msgid "&larr; Back to Gallery"
+msgstr ""
+
+#: image.php:39
+msgid "Click for full size."
+msgstr ""
+
+#: image.php:52
+msgid "Edit this attachment."
+msgstr ""
+
+#: image.php:58
+msgid "Sorry, no image matched your criteria."
+msgstr ""
+
+#: options.php:6
+msgid "Options"
+msgstr ""
+
+#: options.php:7
+#: options.php:35
+msgid "Easel Options"
+msgstr ""
+
+#: options.php:36
+msgid "Easel is a modular theme that has an abundant of hooks and actions placed in it for additional usability.  Ref: Comic Easel"
+msgstr ""
+
+#: options.php:37
+msgid "While Easel is an excellent stand-alone theme, it can be enhanced in usability with the associated plugins that have been built to utilize it's functionality."
+msgstr ""
+
+#: options.php:48
+msgid "Easel Settings RESET!"
+msgstr ""
+
+#: options.php:166
+msgid "Easel Settings SAVED!"
+msgstr ""
+
+#: options.php:177
+msgid "Layout"
+msgstr ""
+
+#: options.php:178
+msgid "General"
+msgstr ""
+
+#: options.php:179
+msgid "Addons"
+msgstr ""
+
+#: options.php:180
+msgid "Debug"
+msgstr ""
+
+#: options.php:222
+msgid "Created, Developed and maintained by"
+msgstr ""
+
+#: options.php:223
+msgid "If you like the Easel theme, please donate.  It will help in developing new features and versions."
+msgstr ""
+
+#: search.php:8
+msgid "Search for &lsquo;"
+msgstr ""
+
+#: search.php:8
+msgid "&rsquo;"
+msgstr ""
+
+#: search.php:36
+msgid "No results found."
+msgstr ""
+
+#: search.php:37
+msgid "Try another search?"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: sidebar-left.php:8
+msgid "There are currently no widgets assigned to the left-sidebar, place some!"
+msgstr ""
+
+#: sidebar-left.php:10
+#: sidebar-right.php:10
+msgid "Once you add widgets to this sidebar, this default information will go away."
+msgstr ""
+
+#: sidebar-left.php:12
+msgid "Widgets can be added by going to your dashboard (wp-admin) -> Appearance -> Widgets, drag a widget you want to see into one of the appropriate sidebars."
+msgstr ""
+
+#: sidebar-right.php:8
+msgid "There are currently no widgets assigned to the right-sidebar, place some!"
+msgstr ""
+
+#: sidebar-right.php:12
+msgid ""
+"This theme also uses the WordPress 3.0 Menu system.  You probably see the default stuff you have in the menubar.  Go to Appearance -> Menu in the\n"
+"\t\t\t\twp-admin (dashboard) and create a new menu."
+msgstr ""
+
+#: sidebar-right.php:15
+msgid "Recommended Plugins"
+msgstr ""
+
+#: single.php:17
+msgid "Sorry, post is not found."
+msgstr ""
+
+#: addons/commpress.php:6
+msgid "Casts"
+msgstr ""
+
+#: addons/commpress.php:7
+msgid "Cast"
+msgstr ""
+
+#: addons/commpress.php:8
+#: addons/playingnow.php:8
+#: addons/showcase.php:8
+msgid "Add New"
+msgstr ""
+
+#: addons/commpress.php:9
+msgid "Add New Cast"
+msgstr ""
+
+#: addons/commpress.php:10
+msgid "Edit Cast"
+msgstr ""
+
+#: addons/commpress.php:12
+msgid "New Cast"
+msgstr ""
+
+#: addons/commpress.php:13
+#: addons/commpress.php:17
+msgid "View Cast"
+msgstr ""
+
+#: addons/commpress.php:14
+msgid "Search Casts"
+msgstr ""
+
+#: addons/commpress.php:15
+msgid "No casts found"
+msgstr ""
+
+#: addons/commpress.php:16
+msgid "No casts found in Trash"
+msgstr ""
+
+#: addons/commpress.php:39
+msgid "Tags"
+msgstr ""
+
+#: addons/commpress.php:40
+msgid "Tag"
+msgstr ""
+
+#: addons/commpress.php:41
+msgid "Search Tags"
+msgstr ""
+
+#: addons/commpress.php:42
+msgid "Popular Tags"
+msgstr ""
+
+#: addons/commpress.php:43
+msgid "All Tags"
+msgstr ""
+
+#: addons/commpress.php:44
+msgid "Parent Tag"
+msgstr ""
+
+#: addons/commpress.php:45
+msgid "Parent Tag:"
+msgstr ""
+
+#: addons/commpress.php:46
+msgid "Edit Tag"
+msgstr ""
+
+#: addons/commpress.php:47
+msgid "Update Tag"
+msgstr ""
+
+#: addons/commpress.php:48
+msgid "Add New Tag"
+msgstr ""
+
+#: addons/commpress.php:49
+msgid "New Tag Name"
+msgstr ""
+
+#: addons/commpress.php:63
+msgid "Guests"
+msgstr ""
+
+#: addons/commpress.php:64
+msgid "Guest"
+msgstr ""
+
+#: addons/commpress.php:65
+msgid "Search Guests"
+msgstr ""
+
+#: addons/commpress.php:66
+msgid "Popular Guests"
+msgstr ""
+
+#: addons/commpress.php:67
+msgid "All Guests"
+msgstr ""
+
+#: addons/commpress.php:68
+msgid "Parent Guest"
+msgstr ""
+
+#: addons/commpress.php:69
+msgid "Parent Guest:"
+msgstr ""
+
+#: addons/commpress.php:70
+msgid "Edit Guest"
+msgstr ""
+
+#: addons/commpress.php:71
+msgid "Update Guest"
+msgstr ""
+
+#: addons/commpress.php:72
+msgid "Add New Guest"
+msgstr ""
+
+#: addons/commpress.php:73
+msgid "New Guest Name"
+msgstr ""
+
+#: addons/commpress.php:87
+#: addons/commpress.php:88
+msgid "Audience"
+msgstr ""
+
+#: addons/commpress.php:89
+msgid "Search Audience"
+msgstr ""
+
+#: addons/commpress.php:90
+msgid "Popular Audience"
+msgstr ""
+
+#: addons/commpress.php:91
+msgid "All Audience"
+msgstr ""
+
+#: addons/commpress.php:92
+msgid "Parent Audience"
+msgstr ""
+
+#: addons/commpress.php:93
+msgid "Parent Audience:"
+msgstr ""
+
+#: addons/commpress.php:94
+msgid "Edit Audience"
+msgstr ""
+
+#: addons/commpress.php:95
+msgid "Update Audience"
+msgstr ""
+
+#: addons/commpress.php:96
+msgid "Add New Audience"
+msgstr ""
+
+#: addons/commpress.php:97
+msgid "New Audience Name"
+msgstr ""
+
+#: addons/commpress.php:111
+msgid "Hosts"
+msgstr ""
+
+#: addons/commpress.php:112
+msgid "Host"
+msgstr ""
+
+#: addons/commpress.php:113
+msgid "Search Hosts"
+msgstr ""
+
+#: addons/commpress.php:114
+msgid "Popular Host"
+msgstr ""
+
+#: addons/commpress.php:115
+msgid "All Hosts"
+msgstr ""
+
+#: addons/commpress.php:116
+msgid "Parent Host"
+msgstr ""
+
+#: addons/commpress.php:117
+msgid "Parent Host:"
+msgstr ""
+
+#: addons/commpress.php:118
+msgid "Edit Host"
+msgstr ""
+
+#: addons/commpress.php:119
+msgid "Update Host"
+msgstr ""
+
+#: addons/commpress.php:120
+msgid "Add New Host"
+msgstr ""
+
+#: addons/commpress.php:121
+msgid "New Host Name"
+msgstr ""
+
+#: addons/commpress.php:135
+#: addons/commpress.php:136
+msgid "Show"
+msgstr ""
+
+#: addons/commpress.php:137
+msgid "Search Shows"
+msgstr ""
+
+#: addons/commpress.php:138
+msgid "Popular Shows"
+msgstr ""
+
+#: addons/commpress.php:139
+msgid "All Shows"
+msgstr ""
+
+#: addons/commpress.php:140
+msgid "Parent Show"
+msgstr ""
+
+#: addons/commpress.php:141
+msgid "Parent Show:"
+msgstr ""
+
+#: addons/commpress.php:142
+msgid "Edit Show"
+msgstr ""
+
+#: addons/commpress.php:143
+msgid "Update Show"
+msgstr ""
+
+#: addons/commpress.php:144
+msgid "Add New Show"
+msgstr ""
+
+#: addons/commpress.php:145
+msgid "New Show Name"
+msgstr ""
+
+#: addons/commpress.php:235
+msgid "&#9492; Tags: "
+msgstr ""
+
+#: addons/commpress.php:337
+msgid "&lsaquo;&lsaquo; First"
+msgstr ""
+
+#: addons/commpress.php:339
+msgid "Last &rsaquo;&rsaquo;"
+msgstr ""
+
+#: addons/commpress.php:341
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: addons/commpress.php:343
+msgid "&lsaquo; Prev"
+msgstr ""
+
+#: addons/commpress.php:364
+msgid "<br />Edit Cast"
+msgstr ""
+
+#: addons/commpress.php:374
+msgid "Display a list of the latest Media Casts"
+msgstr ""
+
+#: addons/commpress.php:375
+msgid "Latest Media Casts"
+msgstr ""
+
+#: addons/commpress.php:384
+msgid "Latest Media Cast"
+msgstr ""
+
+#: addons/commpress.php:407
+#: addons/playingnow.php:130
+#: addons/showcase.php:413
+msgid "Title:"
+msgstr ""
+
+#: addons/membersonly.php:51
+msgid "Member of"
+msgstr ""
+
+#: addons/membersonly.php:54
+msgid "Member?"
+msgstr ""
+
+#: addons/page-options.php:23
+msgid "Easel Page Options"
+msgstr ""
+
+#: addons/playingnow.php:6
+msgid "Music List"
+msgstr ""
+
+#: addons/playingnow.php:7
+msgid "Music"
+msgstr ""
+
+#: addons/playingnow.php:9
+msgid "Add New Music"
+msgstr ""
+
+#: addons/playingnow.php:10
+msgid "Edit Music"
+msgstr ""
+
+#: addons/playingnow.php:11
+#: addons/showcase.php:11
+#: functions/comment-functions.php:141
+msgid "Edit"
+msgstr ""
+
+#: addons/playingnow.php:12
+msgid "New Music"
+msgstr ""
+
+#: addons/playingnow.php:13
+#: addons/playingnow.php:17
+msgid "View Music"
+msgstr ""
+
+#: addons/playingnow.php:14
+msgid "Search Music"
+msgstr ""
+
+#: addons/playingnow.php:15
+msgid "No Music found"
+msgstr ""
+
+#: addons/playingnow.php:16
+msgid "No Music found in Trash"
+msgstr ""
+
+#: addons/playingnow.php:36
+#: addons/playingnow.php:37
+msgid "Group"
+msgstr ""
+
+#: addons/playingnow.php:38
+msgid "Search Groups"
+msgstr ""
+
+#: addons/playingnow.php:39
+msgid "Popular Groups"
+msgstr ""
+
+#: addons/playingnow.php:40
+msgid "All Groups"
+msgstr ""
+
+#: addons/playingnow.php:41
+msgid "Parent Group"
+msgstr ""
+
+#: addons/playingnow.php:42
+msgid "Parent Group:"
+msgstr ""
+
+#: addons/playingnow.php:43
+msgid "Edit Group"
+msgstr ""
+
+#: addons/playingnow.php:44
+msgid "Update Group"
+msgstr ""
+
+#: addons/playingnow.php:45
+msgid "Add New Group"
+msgstr ""
+
+#: addons/playingnow.php:46
+msgid "New Group Name"
+msgstr ""
+
+#: addons/playingnow.php:80
+msgid "<br />Edit this Music."
+msgstr ""
+
+#: addons/playingnow.php:97
+#: addons/showcase.php:380
+msgid "Display a list of the latest showcase comics"
+msgstr ""
+
+#: addons/playingnow.php:98
+#: addons/playingnow.php:107
+msgid "Latest Music"
+msgstr ""
+
+#: addons/showcase.php:6
+msgid "Showcase List"
+msgstr ""
+
+#: addons/showcase.php:7
+msgid "Showcase"
+msgstr ""
+
+#: addons/showcase.php:9
+msgid "Add New Showcase"
+msgstr ""
+
+#: addons/showcase.php:10
+msgid "Edit Showcase"
+msgstr ""
+
+#: addons/showcase.php:12
+msgid "New Showcase"
+msgstr ""
+
+#: addons/showcase.php:13
+#: addons/showcase.php:17
+msgid "View Showcase"
+msgstr ""
+
+#: addons/showcase.php:14
+msgid "Search Showcases"
+msgstr ""
+
+#: addons/showcase.php:15
+msgid "No Showcases found"
+msgstr ""
+
+#: addons/showcase.php:16
+msgid "No howcases found in Trash"
+msgstr ""
+
+#: addons/showcase.php:38
+msgid "Genres"
+msgstr ""
+
+#: addons/showcase.php:39
+msgid "Genre"
+msgstr ""
+
+#: addons/showcase.php:40
+msgid "Search Genres"
+msgstr ""
+
+#: addons/showcase.php:41
+msgid "Popular Genres"
+msgstr ""
+
+#: addons/showcase.php:42
+msgid "All Genres"
+msgstr ""
+
+#: addons/showcase.php:43
+msgid "Parent Genre"
+msgstr ""
+
+#: addons/showcase.php:44
+msgid "Parent Genre:"
+msgstr ""
+
+#: addons/showcase.php:45
+msgid "Edit Genre"
+msgstr ""
+
+#: addons/showcase.php:46
+msgid "Update Genre"
+msgstr ""
+
+#: addons/showcase.php:47
+msgid "Add New Genre"
+msgstr ""
+
+#: addons/showcase.php:48
+msgid "New Genre Name"
+msgstr ""
+
+#: addons/showcase.php:62
+msgid "Styles"
+msgstr ""
+
+#: addons/showcase.php:63
+msgid "Style"
+msgstr ""
+
+#: addons/showcase.php:64
+msgid "Search Styles"
+msgstr ""
+
+#: addons/showcase.php:65
+msgid "Popular Styles"
+msgstr ""
+
+#: addons/showcase.php:66
+msgid "All Styles"
+msgstr ""
+
+#: addons/showcase.php:67
+msgid "Parent Style"
+msgstr ""
+
+#: addons/showcase.php:68
+msgid "Parent Style:"
+msgstr ""
+
+#: addons/showcase.php:69
+msgid "Edit Style"
+msgstr ""
+
+#: addons/showcase.php:70
+msgid "Update Style"
+msgstr ""
+
+#: addons/showcase.php:71
+msgid "Add New Style"
+msgstr ""
+
+#: addons/showcase.php:72
+msgid "New Style Name"
+msgstr ""
+
+#: addons/showcase.php:86
+msgid "Authors"
+msgstr ""
+
+#: addons/showcase.php:87
+msgid "Author"
+msgstr ""
+
+#: addons/showcase.php:88
+msgid "Search Authors"
+msgstr ""
+
+#: addons/showcase.php:89
+msgid "Popular Authors"
+msgstr ""
+
+#: addons/showcase.php:90
+msgid "All Authors"
+msgstr ""
+
+#: addons/showcase.php:91
+msgid "Parent Author"
+msgstr ""
+
+#: addons/showcase.php:92
+msgid "Parent Author:"
+msgstr ""
+
+#: addons/showcase.php:93
+msgid "Edit Author"
+msgstr ""
+
+#: addons/showcase.php:94
+msgid "Update Author"
+msgstr ""
+
+#: addons/showcase.php:95
+msgid "Add New Author"
+msgstr ""
+
+#: addons/showcase.php:96
+msgid "New Author Name"
+msgstr ""
+
+#: addons/showcase.php:110
+msgid "Languages"
+msgstr ""
+
+#: addons/showcase.php:111
+msgid "Language"
+msgstr ""
+
+#: addons/showcase.php:112
+msgid "Search Languages"
+msgstr ""
+
+#: addons/showcase.php:113
+msgid "Popular Languages"
+msgstr ""
+
+#: addons/showcase.php:114
+msgid "All Languages"
+msgstr ""
+
+#: addons/showcase.php:115
+msgid "Parent Language"
+msgstr ""
+
+#: addons/showcase.php:116
+msgid "Parent Language:"
+msgstr ""
+
+#: addons/showcase.php:117
+msgid "Edit Language"
+msgstr ""
+
+#: addons/showcase.php:118
+msgid "Update Language"
+msgstr ""
+
+#: addons/showcase.php:119
+msgid "Add New Language"
+msgstr ""
+
+#: addons/showcase.php:120
+msgid "New Language"
+msgstr ""
+
+#: addons/showcase.php:134
+msgid "Designers"
+msgstr ""
+
+#: addons/showcase.php:135
+msgid "Designer"
+msgstr ""
+
+#: addons/showcase.php:136
+msgid "Search Designers"
+msgstr ""
+
+#: addons/showcase.php:137
+msgid "Popular Designers"
+msgstr ""
+
+#: addons/showcase.php:138
+msgid "All Designers"
+msgstr ""
+
+#: addons/showcase.php:139
+msgid "Parent Designer"
+msgstr ""
+
+#: addons/showcase.php:140
+msgid "Parent Designer:"
+msgstr ""
+
+#: addons/showcase.php:141
+msgid "Edit Designer"
+msgstr ""
+
+#: addons/showcase.php:142
+msgid "Update Designer"
+msgstr ""
+
+#: addons/showcase.php:143
+msgid "Add New Designer"
+msgstr ""
+
+#: addons/showcase.php:144
+msgid "New Designer Name"
+msgstr ""
+
+#: addons/showcase.php:158
+msgid "CMS Used"
+msgstr ""
+
+#: addons/showcase.php:159
+msgid "CMS"
+msgstr ""
+
+#: addons/showcase.php:160
+msgid "Search CMS's"
+msgstr ""
+
+#: addons/showcase.php:161
+msgid "Popular CMS's"
+msgstr ""
+
+#: addons/showcase.php:162
+msgid "All CMS's"
+msgstr ""
+
+#: addons/showcase.php:163
+msgid "Parent CMS"
+msgstr ""
+
+#: addons/showcase.php:164
+msgid "Parent CMS:"
+msgstr ""
+
+#: addons/showcase.php:165
+msgid "Edit CMS"
+msgstr ""
+
+#: addons/showcase.php:166
+msgid "Update CMS"
+msgstr ""
+
+#: addons/showcase.php:167
+msgid "Add New CMS"
+msgstr ""
+
+#: addons/showcase.php:168
+msgid "New CMS Name"
+msgstr ""
+
+#: addons/showcase.php:182
+msgid "Twitter Names"
+msgstr ""
+
+#: addons/showcase.php:183
+msgid "Twitter User"
+msgstr ""
+
+#: addons/showcase.php:184
+msgid "Search Twitter Users"
+msgstr ""
+
+#: addons/showcase.php:185
+msgid "Popular Twitter Users"
+msgstr ""
+
+#: addons/showcase.php:186
+msgid "All Twitter Users"
+msgstr ""
+
+#: addons/showcase.php:187
+msgid "Parent Twitter"
+msgstr ""
+
+#: addons/showcase.php:188
+msgid "Parent Twitter:"
+msgstr ""
+
+#: addons/showcase.php:189
+msgid "Edit Twitter Name"
+msgstr ""
+
+#: addons/showcase.php:190
+msgid "Update Twitter Name"
+msgstr ""
+
+#: addons/showcase.php:191
+msgid "Add New Twitter Name"
+msgstr ""
+
+#: addons/showcase.php:192
+msgid "New Twitter Name"
+msgstr ""
+
+#: addons/showcase.php:249
+msgid "<br />Edit this showcase."
+msgstr ""
+
+#: addons/showcase.php:381
+#: addons/showcase.php:390
+msgid "Latest Showcase"
+msgstr ""
+
+#: addons/showcase.php:476
+msgid "Previous"
+msgstr ""
+
+#: addons/showcase.php:477
+msgid "Pause"
+msgstr ""
+
+#: addons/showcase.php:478
+msgid "Next"
+msgstr ""
+
+#: addons/wp-rewrite.php:48
+msgid "Easel - Rewrite Rules Updated!"
+msgstr ""
+
+#: functions/breadcrumbs.php:6
+msgid "&raquo;"
+msgstr ""
+
+#: functions/breadcrumbs.php:7
+msgid "Home"
+msgstr ""
+
+#: functions/breadcrumbs.php:26
+msgid "Archive by category"
+msgstr ""
+
+#: functions/breadcrumbs.php:56
+msgid "No Results"
+msgstr ""
+
+#: functions/breadcrumbs.php:82
+msgid "Search results for"
+msgstr ""
+
+#: functions/breadcrumbs.php:85
+msgid "Posts tagged"
+msgstr ""
+
+#: functions/breadcrumbs.php:90
+msgid "Articles posted by"
+msgstr ""
+
+#: functions/breadcrumbs.php:93
+msgid "Error 404"
+msgstr ""
+
+#: functions/breadcrumbs.php:98
+msgid "Page"
+msgstr ""
+
+#: functions/comment-functions.php:121
+msgid "l, F jS Y, g:ia"
+msgstr ""
+
+#: functions/comment-functions.php:122
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: functions/comment-functions.php:126
+msgid "Permalink to comment"
+msgstr ""
+
+#: functions/comment-functions.php:126
+msgid "#"
+msgstr ""
+
+#: functions/comment-functions.php:132
+msgid "Reply"
+msgstr ""
+
+#: functions/comment-functions.php:133
+msgid "Login to Reply"
+msgstr ""
+
+#: functions/comment-functions.php:144
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/displaypost.php:63
+msgid "by"
+msgstr ""
+
+#: functions/displaypost.php:73
+msgid "on&nbsp;"
+msgstr ""
+
+#: functions/displaypost.php:83
+msgid "at&nbsp;"
+msgstr ""
+
+#: functions/displaypost.php:94
+msgid "Posted In: "
+msgstr ""
+
+#: functions/displaypost.php:115
+msgid "Comment&nbsp;"
+msgstr ""
+
+#: functions/displaypost.php:115
+msgid "Comment "
+msgstr ""
+
+#: functions/displaypost.php:115
+msgid "Comments "
+msgstr ""
+
+#: functions/footer-text.php:8
+msgid "Powered by"
+msgstr ""
+
+#: functions/footer-text.php:8
+msgid "with"
+msgstr ""
+
+#: functions/footer-text.php:17
+msgid "Back to Top &uarr;"
+msgstr ""
+
+#: functions/footer-text.php:35
+msgid "Hosted on"
+msgstr ""
+
+#: functions/footer-text.php:47
+msgid "&copy;"
+msgstr ""
+
+#: functions/pagination.php:9
+msgid "Newer Entries &uarr;"
+msgstr ""
+
+#: functions/pagination.php:10
+msgid "&darr; Previous Entries"
+msgstr ""
+
+#: functions/wp-pagenavi.php:158
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: functions/wp-pagenavi.php:161
+msgid "&laquo; First"
+msgstr ""
+
+#: functions/wp-pagenavi.php:162
+msgid "Last &raquo;"
+msgstr ""
+
+#: functions/wp-pagenavi.php:164
+msgid "&laquo;"
+msgstr ""
+
+#: functions/wp-pagenavi.php:165
+#: functions/wp-pagenavi.php:166
+msgid "..."
+msgstr ""
+
+#: options/addons.php:14
+msgid "Members Only"
+msgstr ""
+
+#: options/addons.php:14
+msgid "Message to give to non-members."
+msgstr ""
+
+#: options/addons.php:19
+msgid "Enabled the members only shortcode [members]content[/members] - you can configure who is a member in the user editor.  Those with access will be able to see the content."
+msgstr ""
+
+#: options/addons.php:25
+msgid "Additional Page Options"
+msgstr ""
+
+#: options/addons.php:30
+msgid "Extra options for the page-editor which include removal of sidebars for display."
+msgstr ""
+
+#: options/addons.php:34
+msgid "Playing Now"
+msgstr ""
+
+#: options/addons.php:39
+msgid "The \"Music\" post type, this post type allows you to seperate music selections and post about music/bands seperate from regular posts; includes a [latest music] widget that lists off the latest posts in the music post type."
+msgstr ""
+
+#: options/addons.php:43
+msgid "Comic Showcase"
+msgstr ""
+
+#: options/addons.php:48
+msgid "The \"Showcase\" post type, this post type is specifically for creating posts that are relevant to comics, and showcasing which comics you read and who makes them and what type of comic they are.  Includes a [latest showcase] widget that lists off the latest posts in the showcase post type."
+msgstr ""
+
+#: options/addons.php:53
+msgid "Comic Showcase Slider"
+msgstr ""
+
+#: options/addons.php:58
+msgid "Enable a slider on the homepage of a random set of Showcases."
+msgstr ""
+
+#: options/addons.php:63
+msgid "CommPress - Casts"
+msgstr ""
+
+#: options/addons.php:68
+msgid "The CommPress MediaCast post type, displays podcast/mediacast posts in a navigational box right above the blog loop that stays static."
+msgstr ""
+
+#: options/addons.php:82
+msgid "Custom Post Types"
+msgstr ""
+
+#: options/addons.php:87
+msgid "WP Rewrite Control"
+msgstr ""
+
+#: options/addons.php:92
+msgid "When enabled, Easel will create additional wp-rewrite rules for all of the custom post types that it finds enabled, including plugin based ones.   To initiate the rewrite rules go to the settings -> permalinks screen.  This will only work if you have custom permalinks enabled."
+msgstr ""
+
+#: options/addons.php:97
+msgid "Remember with custom post types, you will need to go to settings -> permalinks and click \"save\" to enable them to work properly and reinitilize the permalink structure regardless of using the additional wp-rewrite rules option."
+msgstr ""
+
+#: options/debug.php:14
+msgid "Enable the debug page load/memory usage at the bottom of each page?"
+msgstr ""
+
+#: options/debug.php:19
+msgid "If enabled will show information on how many queries, memory is used as well as how fast the page loads."
+msgstr ""
+
+#: options/debug.php:23
+msgid "Force MySQL to close the current active connection after page load?"
+msgstr ""
+
+#: options/debug.php:28
+msgid "This option forces mysql to close the connection after each page load - not recommended unless you are requested to enable it."
+msgstr ""
+
+#: options/general.php:15
+msgid "How many blog posts would you like to display on the home page?"
+msgstr ""
+
+#: options/general.php:20
+msgid "How many blog posts you would like displayed on the index page at one time.  This is different then the one in the wp-admin - settings, the one in the settings will control how many show up on search and archive pages."
+msgstr ""
+
+#: options/general.php:24
+msgid "Disable Blog Loop"
+msgstr ""
+
+#: options/general.php:29
+msgid "Enabling this option, will DISABLE the blog from appearing on the home page AND any pages set as the blog posts page in the settings - reading."
+msgstr ""
+
+#: options/general.php:37
+msgid "Custom Header"
+msgstr ""
+
+#: options/general.php:41
+msgid "Custom Header Values"
+msgstr ""
+
+#: options/general.php:43
+msgid "Width:"
+msgstr ""
+
+#: options/general.php:44
+msgid "Height:"
+msgstr ""
+
+#: options/general.php:45
+msgid "Modify the height and width of the custom header *if* you use Appearance - Header"
+msgstr ""
+
+#: options/general.php:46
+msgid "3 Column Layouts are 980px width while 2 Column Layouts are 780px width as default."
+msgstr ""
+
+#: options/general.php:58
+msgid "Disable default Menubar"
+msgstr ""
+
+#: options/general.php:63
+msgid "Allows you to customize the location of the Menubar via Widgets or, just not have it."
+msgstr ""
+
+#: options/general.php:67
+msgid "Enable Search Form"
+msgstr ""
+
+#: options/general.php:72
+msgid "Searchforms can be fun when you have something to search for."
+msgstr ""
+
+#: options/general.php:76
+msgid "Enable RSS Link"
+msgstr ""
+
+#: options/general.php:81
+msgid "Adds an RSS link icon to your menubar on the right side."
+msgstr ""
+
+#: options/general.php:85
+msgid "Disable the menubar jQuery?"
+msgstr ""
+
+#: options/general.php:90
+msgid "Disable the loading of the menubar jQuery.  If you do not want the ddsmoother menu code to load. (will not do drop downs without it)"
+msgstr ""
+
+#: options/general.php:94
+msgid "Enable Social Icons in Menubar?"
+msgstr ""
+
+#: options/general.php:99
+msgid "Adds additional social icons in the menubar on in the menunav area."
+msgstr ""
+
+#: options/general.php:102
+msgid "facebook"
+msgstr ""
+
+#: options/general.php:107
+msgid "Enable Breadcrumbs?"
+msgstr ""
+
+#: options/general.php:112
+msgid "This will create a pathable breathcrumbs beneith the menubar underneith the default menubar location."
+msgstr ""
+
+#: options/general.php:120
+msgid "Pages"
+msgstr ""
+
+#: options/general.php:124
+msgid "Disable the titles on pages"
+msgstr ""
+
+#: options/general.php:129
+msgid "Page titles will be turned off.  If you disable the titles no pages you can still add a post-image in the page editor."
+msgstr ""
+
+#: options/general.php:137
+msgid "Posts"
+msgstr ""
+
+#: options/general.php:141
+msgid "Disable the titles on posts"
+msgstr ""
+
+#: options/general.php:146
+msgid "Post titles will be turned off.  If you disable the titles on posts can still add a post-image in the post editor."
+msgstr ""
+
+#: options/general.php:150
+msgid "Add graphic calendar to blog posts"
+msgstr ""
+
+#: options/general.php:155
+msgid "Enabling this option will display a calendar image on your blog posts. The graphic calendar is an image that has the date of the blog post overlayed on top of it."
+msgstr ""
+
+#: options/general.php:159
+msgid "Enable Author Gravatar"
+msgstr ""
+
+#: options/general.php:164
+msgid "Enabling this option will show a gravatar of the post author based on the author email address.  Gravatars are associated by your email address and you can create them at"
+msgstr ""
+
+#: options/general.php:168
+msgid "Enable Avatar Mod"
+msgstr ""
+
+#: options/general.php:173
+msgid "With this enabled, the avatar's that are displayed will be jquery modified to look like polaroids randomly tilted."
+msgstr ""
+
+#: options/general.php:192
+msgid "Avatar Directory"
+msgstr ""
+
+#: options/general.php:206
+msgid "Choose a directory to get the avatars for default gravatars if someone does not have one.  You will have to make these images yourself, or download them from avatar providers. Then make a new directory on your site server to upload them to and select that directory here. <strong>Setting this to 'none' will disable it from using any special avatar sets.</strong>"
+msgstr ""
+
+#: options/general.php:210
+msgid "Disable display of <strong>tags</strong> in posts"
+msgstr ""
+
+#: options/general.php:215
+msgid "Checkmarking this will make it so that tags will not appear in posts."
+msgstr ""
+
+#: options/general.php:219
+msgid "Disable display of <strong>categories</strong> in posts"
+msgstr ""
+
+#: options/general.php:224
+msgid "Checkmarking this will make it so that categories will not appear in posts."
+msgstr ""
+
+#: options/general.php:228
+msgid "Disable display of <strong>by Author</strong> in post information."
+msgstr ""
+
+#: options/general.php:233
+msgid "Checkmarking this will make it so that the by Author information will not appear in posts."
+msgstr ""
+
+#: options/general.php:237
+msgid "Disable display of <strong>on post-Date</strong> in posts"
+msgstr ""
+
+#: options/general.php:242
+msgid "Checkmarking this will make it so that on post-Date will not appear in posts."
+msgstr ""
+
+#: options/general.php:250
+msgid "Comments"
+msgstr ""
+
+#: options/general.php:254
+msgid "Disable the comment notes"
+msgstr ""
+
+#: options/general.php:259
+msgid "Disabling this will remove the note text that displays with more options for adding to comments (html)."
+msgstr ""
+
+#: options/general.php:263
+msgid "Disable Comment Javascript"
+msgstr ""
+
+#: options/general.php:268
+msgid "Checkmark this if you want the comment form to not use javascript to appear directly under who is being replied to. (increases pageviews/hits)"
+msgstr ""
+
+#: options/general.php:272
+msgid "Enable Comments on Home Page"
+msgstr ""
+
+#: options/general.php:277
+msgid "Checkmarking this option will make it so that the post(s) on the home page will also display the comments under them, This will ONLY work if you have it set to only display 1 post on the home page.  The post count and this must be set to work."
+msgstr ""
+
+#: options/general.php:285
+msgid "Navigation"
+msgstr ""
+
+#: options/general.php:289
+msgid "Enable numbered pagination"
+msgstr ""
+
+#: options/general.php:294
+msgid "Previous Entries and Next Entries buttons are replaced by a bar of numbered pages. Numbered pagination appears on the Home page, the author(s) page, the blog template, and comments/single when there are more then the set number of comments per page. Uses the same styling as the Menubar."
+msgstr ""
+
+#: options/general.php:306
+msgid "Disable the default text in the footer"
+msgstr ""
+
+#: options/general.php:311
+msgid "Default text in the footer will not display. Enable this if you do not want any text in the footer. If you wish to add you own custom content, you may do so via Appearance -> Widgets-> Footer."
+msgstr ""
+
+#: options/general.php:315
+msgid "Disable the scroll to top link in the footer?"
+msgstr ""
+
+#: options/general.php:320
+msgid "When this link is clicked on long pages it will scroll back to the top."
+msgstr ""
+
+#: options/general.php:324
+msgid "&copy; Copyright Name"
+msgstr ""
+
+#: options/general.php:328
+msgid "Set the name to which this site is &copy; Copyright to, leave blank to have the site name."
+msgstr ""
+
+#: options/general.php:332
+msgid "Copyright Holder URL"
+msgstr ""
+
+#: options/general.php:336
+msgid "Set the URL to the owner of the &copy; Copyright if different then this website, leave blank for sites link."
+msgstr ""
+
+#: options/general.php:344
+msgid "RSS"
+msgstr ""
+
+#: options/general.php:348
+msgid "Enable the post thumbnails in the RSS feed?"
+msgstr ""
+
+#: options/general.php:353
+msgid "If enabled will show the post thumbnail of the post in the RSS feed."
+msgstr ""
+
+#: options/general.php:361
+msgid "Facebook"
+msgstr ""
+
+#: options/general.php:365
+msgid "Enable the Facebook Like button in Blog Posts?"
+msgstr ""
+
+#: options/general.php:370
+msgid "When enabled this option will allow the Facebook like button to appear at the bottom of regular blog posts."
+msgstr ""
+
+#: options/general.php:374
+msgid "Enable the Facebook Meta?"
+msgstr ""
+
+#: options/general.php:379
+msgid "When setting this option, Easel will add meta information to the head area of each page so that facebook will recognize the content within."
+msgstr ""
+
+#: options/general.php:387
+msgid "Archive & Search"
+msgstr ""
+
+#: options/general.php:391
+msgid "Display archive results as a list of links?"
+msgstr ""
+
+#: options/general.php:396
+msgid "Enabling this will make the archive pages by date/category/term display as a list of links instead of full posts."
+msgstr ""
+
+#: options/general.php:401
+msgid "Excerpt or Full Content in archive and search."
+msgstr ""
+
+#: options/general.php:408
+msgid "If Display archives results as list is disabled, decide how much is seen in the archive display. "
+msgstr ""
+
+#: options/general.php:413
+msgid "Archive Display Order"
+msgstr ""
+
+#: options/general.php:420
+msgid "Sets the display order of your archives. Newest to Oldest will display your posts starting with the most recent. Oldest to Newest will start with the first entry in the category, tag, or date range (e.g., Selecting May 20XX will start with May 1, not May 31st.)"
+msgstr ""
+
+#: options/layout.php:27
+msgid "Choose Your Website Layout"
+msgstr ""
+
+#: options/layout.php:29
+msgid "3 Column - Standard"
+msgstr ""
+
+#: options/layout.php:30
+msgid "3 Column - Sidebar's on left"
+msgstr ""
+
+#: options/layout.php:31
+msgid "3 Column - Sidebar's on right"
+msgstr ""
+
+#: options/layout.php:32
+msgid "2 Column - Sidebar on left"
+msgstr ""
+
+#: options/layout.php:33
+msgid "2 Column - Sidebar on right"
+msgstr ""
+
+#: options/layout.php:49
+msgid "Scheme"
+msgstr ""
+
+#: options/layout.php:53
+msgid "Disable default design"
+msgstr ""
+
+#: options/layout.php:58
+msgid "Checking this option will make it so the default scheme does not load.  This makes a completely blank template with no special colors appear."
+msgstr ""
+
+#: options/layout.php:63
+msgid "Schemes have been removed and replaced with Child Themes. If you wish to recover the look of your site from a previous version of Easel - they are available from the developer - and soon the WordPress repository."
+msgstr ""
+
+#: widgets/calendar.php:123
+#: widgets/calendar.php:131
+#, php-format
+msgid "View posts for %1$s %2$s"
+msgstr ""
+
+#: widgets/calendar.php:247
+msgid "Display a calendar showing this months posts. (this calendar does not drop lines if there is no title given.)"
+msgstr ""
+
+#: widgets/calendar.php:248
+msgid "Easel Calendar"
+msgstr ""
+
+#: widgets/calendar.php:270
+msgid "DOWNLOAD"
+msgstr ""
+
+#: widgets/calendar.php:273
+msgid "Download Small"
+msgstr ""
+
+#: widgets/calendar.php:273
+msgid "S"
+msgstr ""
+
+#: widgets/calendar.php:274
+msgid "Download Medium"
+msgstr ""
+
+#: widgets/calendar.php:274
+msgid "M"
+msgstr ""
+
+#: widgets/calendar.php:275
+msgid "Download Large"
+msgstr ""
+
+#: widgets/calendar.php:275
+msgid "L"
+msgstr ""
+
+#: widgets/calendar.php:314
+msgid "Thumbnail URL (178px by 130px):"
+msgstr ""
+
+#: widgets/calendar.php:315
+msgid "Add link on thumbnails:"
+msgstr ""
+
+#: widgets/calendar.php:316
+msgid "Wallpaper URL (Small):"
+msgstr ""
+
+#: widgets/calendar.php:317
+msgid "Wallpaper URL (Medium):"
+msgstr ""
+
+#: widgets/calendar.php:318
+msgid "Wallpaper URL (Large):"
+msgstr ""
+
+#: widgets/classicbookmark.php:40
+msgid "Tag This Page"
+msgstr ""
+
+#: widgets/classicbookmark.php:112
+msgid "Creates a set of buttons that let the user return to the page they tagged."
+msgstr ""
+
+#: widgets/classicbookmark.php:113
+msgid "Classic Bookmark"
+msgstr ""
+
+#: widgets/controlpanel.php:13
+msgid "Login/Logoff menu with register/lost password links if not logged on. (use only if registrations are enabled."
+msgstr ""
+
+#: widgets/controlpanel.php:14
+#: widgets/controlpanel.php:51
+msgid "Control Panel"
+msgstr ""
+
+#: widgets/controlpanel.php:23
+msgid "Username"
+msgstr ""
+
+#: widgets/controlpanel.php:24
+msgid "Password"
+msgstr ""
+
+#: widgets/controlpanel.php:30
+#: widgets/controlpanel.php:32
+msgid "Register"
+msgstr ""
+
+#: widgets/controlpanel.php:34
+msgid "Recover password"
+msgstr ""
+
+#: widgets/controlpanel.php:38
+msgid "Logout"
+msgstr ""
+
+#: widgets/controlpanel.php:40
+msgid "Profile"
+msgstr ""
+
+#: widgets/menubar.php:47
+msgid "Displays a menubar."
+msgstr ""
+
+#: widgets/menubar.php:48
+msgid "Easel Menubar"
+msgstr ""
+
+#: widgets/multisite-list.php:15
+msgid "Display Site List of all sites that have recently updated on this Multisite."
+msgstr ""
+
+#: widgets/multisite-list.php:25
+msgid "Hosted Site List"
+msgstr ""
+
+#: widgets/randompostlink.php:34
+msgid "Displays a link to click to trigger a random blog post."
+msgstr ""
+
+#: widgets/randompostlink.php:35
+msgid "Random Post Link"
+msgstr ""
+
+#: widgets/randompostlink.php:46
+msgid "Random Post"
+msgstr ""
+
+#: widgets/scheduledposts.php:14
+msgid "Display a list of posts that are scheduled to be published."
+msgstr ""
+
+#: widgets/scheduledposts.php:15
+#: widgets/scheduledposts.php:23
+msgid "Scheduled Posts"
+msgstr ""
+
+#: widgets/translator.php:16
+msgid "Translate your site with Google."
+msgstr ""
+
+#: widgets/translator.php:17
+msgid "Google Translator"
+msgstr ""
+

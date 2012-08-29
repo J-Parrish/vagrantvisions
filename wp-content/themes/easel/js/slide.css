@@ -1,0 +1,103 @@
+/**
+* Featured slider
+************************************************/
+#slider-container {
+	overflow: hidden;
+	width: 540px;
+	height: 260px;
+	margin: 10px auto;
+	}
+#slider {
+	overflow: hidden;
+	width: auto;
+	height: 230px;
+	}
+.feature {
+	overflow: hidden;
+	width: auto;
+	height: 220px;
+	padding: 10px 10px 0 10px;
+	color: #fff;
+	border: none !important;
+	}
+.feature img {
+	float: left;
+	max-width: 250px;
+	margin: 0 15px 0 0;
+	border: 5px solid #001838;
+	}
+#slider .feature .entry-title {
+	font-size: 21px;
+	}
+#slider .feature .entry-title a {
+	color: #eee;
+	}
+.feature .byline {
+	color: #aaa;
+	margin-bottom: 15px;
+	}
+.more-link {
+	float: right;
+	text-indent: -9999px;
+	width: 100px;
+	height: 20px;
+	display: block;
+	background: url('../images/slider/more-link.gif') no-repeat 0 0;
+	}
+.more-link:hover {
+	background: url('../images/slider/more-link.gif') no-repeat 0 -20px;
+	}
+
+/* Slider controls */
+.slider-controls {
+	float: left;
+	width: 100%;
+	height: 20px;
+	overflow: hidden;
+	clear: both;
+	line-height: 15px;
+	margin: 0 0 0;
+	display: block;
+	padding: 0 10px;
+	}
+.slider-controls .slider-prev {
+	text-indent: -9999px;
+	float: left;
+	width: 22px;
+	height: 20px;
+	background: url('../images/slider/slider-prev.png') no-repeat 0 0;
+	border: none !important;
+	}
+.slider-controls .slider-prev:hover {
+	background: url('../images/slider/slider-prev.png') no-repeat left -20px;
+	}
+.slider-controls .slider-pause {
+	text-indent: -9999px;
+	float: left;
+	width: 22px;
+	height: 20px;
+	background: url('../images/slider/pause.png') no-repeat center 0;
+	border: none !important;
+	}
+.slider-controls .slider-pause:hover, .slider-controls a.paused {
+	background: url('../images/slider/pause.png') no-repeat center -20px;
+	}
+.slider-controls .slider-next {
+	text-indent: -9999px;
+	float: left;
+	width: 22px;
+	height: 20px;
+	background: url('../images/slider/slider-next.png') no-repeat right 0;
+	border: none !important;
+	}
+.slider-controls .slider-next:hover {
+	background: url('../images/slider/slider-next.png') no-repeat right -20px;
+	}
+	
+h2.slider-title a, h2.slider-title {
+	color: #fcff00;
+}
+
+h2.slider-title a:hover, h2.slider-title:hover {
+	color: #f00;
+}
